@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://albertox64.github.io/choriza-el-chollo/sitemap.xml
