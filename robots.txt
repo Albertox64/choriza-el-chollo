@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://chorizalo.github.io/sitemap.xml
